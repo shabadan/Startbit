@@ -113,7 +113,7 @@ namespace startbit {
         //% block="180"
         range1 = 180,
         //% block="270"
-        range2 =270
+        range2 =270,
 	//% block="360"
         range3 =360
     }
