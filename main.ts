@@ -39,7 +39,7 @@ namespace startbit {
         //% block="servo 1"
         Servo1 = 0x01,
         //% block="servo 2"
-        Servo2 = 0x02
+        Servo2 = 0x02,
 	//% block="servo 3"
         Servo3 = 0x03,
         //% block="servo 4"
