@@ -40,6 +40,10 @@ namespace startbit {
         Servo1 = 0x01,
         //% block="servo 2"
         Servo2 = 0x02
+	//% block="servo 3"
+        Servo3 = 0x03,
+        //% block="servo 2"
+        Servo4 = 0x04
     }
 
     export enum startbit_ultrasonicPort {
