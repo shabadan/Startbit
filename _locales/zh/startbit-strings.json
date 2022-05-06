@@ -142,6 +142,7 @@
 	"startbit.SofaStatus.OCCUPIED|block":"有人",
 	"startbit.startbit_Servos.Servo1|block":"舵机1",
 	"startbit.startbit_Servos.Servo2|block":"舵机2",
+	"startbit.startbit_Servos.Servo3|block":"舵机3",
 	"startbit.startbit_readAngle|block":"发送读|%servo|角度命令",
 	"startbit.getServosAngle|block":"获取|%servo|角度(-120~120)",
 	"startbit.onstartbit_getAngle|block":"当读取到|%servo|角度时执行",
