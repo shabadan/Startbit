@@ -114,6 +114,8 @@ namespace startbit {
         range1 = 180,
         //% block="270"
         range2 =270
+	//% block="360"
+        range2 =360
     }
 	
     export enum startbit_digitaltubePort {
